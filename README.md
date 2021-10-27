@@ -32,12 +32,13 @@ Please refer to the Appendix for the detailed hyperparameters.
 
 1. Transductive Setting:
 
-   ![](C:\Users\Stanley\Desktop\NDLS\transductive_results.png)
+   ![transductive](./transductive_results.png)
 
 2. Inductive Setting: 
 
-   ![](C:\Users\Stanley\Desktop\NDLS\inductive_results.png)
+   ![inductive](./inductive_results.png)
 
 3. Efficiency Comparison: 
 
-   ![](C:\Users\Stanley\Desktop\NDLS\efficiency.png)
+   ![efficiency](./efficiency.png)
+   
