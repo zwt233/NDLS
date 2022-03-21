@@ -41,4 +41,17 @@ Please refer to the Appendix for the detailed hyperparameters.
 3. Efficiency Comparison: 
 
    ![efficiency](./efficiency.png)
+
+## Cite
+
+If you use NDLS in a scientific publication, we would appreciate citations to the following paper:
+```
+ @article{zhang2021node,
+  title={Node Dependent Local Smoothing for Scalable Graph Learning},
+  author={Zhang, Wentao and Yang, Mingyu and Sheng, Zeang and Li, Yang and Ouyang, Wen and Tao, Yangyu and Yang, Zhi and Cui, Bin},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
+}
+```
    
